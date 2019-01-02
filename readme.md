@@ -8,9 +8,9 @@ TVShow Name: 西部世界.Westworld.S01E01.中英字幕.BDRip.720P.人人影视.
 
 
 
-Since the TVShow names are extremely long and some of the attributes like `BDRip` `720P` etc are less important. 
+Since the TVShow names are extremely long and some of the attributes like `BDRip` `720P` `中英字幕` `人人影视` etc are less important. 
 
-This little tool provided the top TVShows ( like 50+? ) on [_mezjutt.com_](https://www.meijutt.com/alltop_hit.html) for you to explore on your own. Plz look into `names.txt`. Here is some of the results:
+This little tool provided the top TVShows names ( like 50+? ) on [_mezjutt.com_](https://www.meijutt.com/alltop_hit.html) for you to explore on your own. Plz look into `names.txt`. Here is some of the results:
 
 ```
 神盾局特工.Marvels.Agents.of.S.H.I.E.L.D.S05E01.中英字幕.WEB-HR.AAC.720P.x264-人人影视.mp4
